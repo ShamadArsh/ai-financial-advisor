@@ -1,0 +1,9 @@
+__pycache__/
+chroma_rag/
+corpus_theory/
+.DS_Store
+myvenv/
+__pycache__/
+.DS_Store
+myvenv/
+mcp/.env
